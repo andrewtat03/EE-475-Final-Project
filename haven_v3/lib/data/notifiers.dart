@@ -1,0 +1,6 @@
+// ValueNotifier: hold the data
+// ValueListenableBuilder: listen to the data (don't need the setstate)
+
+import 'package:flutter/material.dart';
+
+ValueNotifier<int> selectedPageNotifier = ValueNotifier<int>(0);

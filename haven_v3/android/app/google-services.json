@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "351215136507",
+    "project_id": "haven-data",
+    "storage_bucket": "haven-data.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351215136507:android:d451e7a40364ab596e8a5e",
+        "android_client_info": {
+          "package_name": "com.example.haven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuQ5QdMMyA7qoOOGhWwzd3eVvJ4ezljo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351215136507:android:3f7c4871a47db63d6e8a5e",
+        "android_client_info": {
+          "package_name": "com.example.haven_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuQ5QdMMyA7qoOOGhWwzd3eVvJ4ezljo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351215136507:android:5cedc97ed1a9a6de6e8a5e",
+        "android_client_info": {
+          "package_name": "com.example.haven_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyuQ5QdMMyA7qoOOGhWwzd3eVvJ4ezljo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

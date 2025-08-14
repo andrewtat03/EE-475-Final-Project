@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "haven-data",
+          "appId": "1:351215136507:android:5cedc97ed1a9a6de6e8a5e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "haven-data",
+          "configurations": {
+            "android": "1:351215136507:android:5cedc97ed1a9a6de6e8a5e",
+            "ios": "1:351215136507:ios:e0c2e4f39cc9dbe26e8a5e",
+            "macos": "1:351215136507:ios:e0c2e4f39cc9dbe26e8a5e",
+            "web": "1:351215136507:web:7fd43db764a83c706e8a5e",
+            "windows": "1:351215136507:web:f1fe9a915aefd06a6e8a5e"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}
