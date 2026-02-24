@@ -109,6 +109,9 @@ Housing for the finished sensor node, as well as above view of finished PCB with
 
 Block diagram and diagram of overall functionality
 ---
+![image alt](https://github.com/andrewtat03/EE-475-Final-Project/blob/ee8e0e73fe2c8266a280b73da9930e3c4a04d721/App_View.png)
 
+App Screenshot
+---
 ## Author
 Andrew Tat
