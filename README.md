@@ -54,7 +54,6 @@ Sensor → ESP32 → Wi-Fi → Firebase → Mobile App
 ## Cloud Integration
 
 - Firebase Realtime Database
-- Structured schema for multi-room data storage
 - Real-time data synchronization
 
 ---
